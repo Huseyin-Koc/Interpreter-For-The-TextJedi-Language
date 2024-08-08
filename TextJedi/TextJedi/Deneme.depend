@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1687727966 source:c:\users\pc\desktop\deneme\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
+1687736837 source:c:\users\pc\desktop\proje yedeði\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
